@@ -1,2 +1,3 @@
-# Library_name
-Library description goes here.
+# 7-Seg_Neopixel
+> [!CAUTION]
+> This library is **INCOMPLETE**
